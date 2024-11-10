@@ -13,7 +13,7 @@ import entities.HourContract;
 import entities.Worker;
 import entities.enums.WorkerLevel;
 
-public class PrincipalAula151 {
+public class PrincipalAula123 {
 
 	public static void main(String[] args) throws ParseException {
 
