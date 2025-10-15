@@ -4,6 +4,7 @@ import java.time.LocalDate;
 
 import entities.Coment;
 import entities.Post;
+import entities.BusinessAccount;
 
 public class Principal125 {
     public static void main(String[] args) {
@@ -22,5 +23,8 @@ public class Principal125 {
         post2.addComent(c1);
         post2.addComent(c2);
         System.out.println(post2.toString());
+
+        BusinessAccount account = new BusinessAccount(); 
+        account.getNumber();
     }
 }
